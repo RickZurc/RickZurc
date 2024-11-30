@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RickZurc
 - 👀 I’m interested in deslocating code
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on well we know *wink* 
 - 📫 How to reach me just call my name
 
 <!---
